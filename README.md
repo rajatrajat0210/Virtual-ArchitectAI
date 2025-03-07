@@ -99,10 +99,10 @@ Frontend will be available at http://localhost:3000
 **Deploy & get the website URL**
 
 ## 📈 Future Improvements
-✅ **Use GPT-4V, DeepSeek, or Claude for enhanced AI reasoning.**
-✅ **Train a custom YOLOv8 model for better room and furniture detection.**
-✅ **Improve UI with real-time 3D modeling and drag-and-drop layout features.**
-✅ **Optimize API response times and integrate scalable cloud hosting.**
+-✅ **Use GPT-4V, DeepSeek, or Claude for enhanced AI reasoning.**
+-✅ **Train a custom YOLOv8 model for better room and furniture detection.**
+-✅ **Improve UI with real-time 3D modeling and drag-and-drop layout features.**
+-✅ **Optimize API response times and integrate scalable cloud hosting.**
 
 🎯 Why the FastAPI Version Was Not Deployed?
 While the Gradio version was deployed on Hugging Face for quick feature validation, the FastAPI + React version requires dedicated cloud hosting for full functionality. Due to higher infrastructure requirements and costs, it is currently running locally, as shown in the documentation and demo video.
