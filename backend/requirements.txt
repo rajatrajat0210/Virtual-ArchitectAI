@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+pytesseract
+opencv-python-headless
+pillow
+gtts
+groq

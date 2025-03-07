@@ -1,0 +1,9 @@
+[phases.setup]
+nixPkgs = [
+  "python311",
+  "tesseract",
+  "ffmpeg",
+  "gcc",
+  "pkg-config",
+  "libglvnd"
+]
