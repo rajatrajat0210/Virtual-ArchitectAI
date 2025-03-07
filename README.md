@@ -85,20 +85,20 @@ uvicorn app:app --reload
 Backend will be available at http://localhost:8000
 Frontend will be available at http://localhost:3000
 ```
-🚀 Deployment
+🚀 ## Deployment
 1️⃣ Deploy Backend (Railway)
 **Sign up on Railway.app**
 **Create a new project and upload your FastAPI backend8**
 **Add environment variables (.env file for API keys)**
 **Deploy & get the API URL**
 
-2️⃣ Deploy Frontend (Netlify)
+## 2️⃣ Deploy Frontend (Netlify)
 **Sign up on Netlify**  
 **Drag and drop the frontend folder in Netlify**
 **Set the REACT_APP_API_URL environment variable to your backend URL**
 **Deploy & get the website URL**
 
-📈 Future Improvements
+## 📈 Future Improvements
 ✅ **Use GPT-4V, DeepSeek, or Claude for enhanced AI reasoning.**
 ✅ **Train a custom YOLOv8 model for better room and furniture detection.**
 ✅ **Improve UI with real-time 3D modeling and drag-and-drop layout features.**
@@ -109,7 +109,7 @@ While the Gradio version was deployed on Hugging Face for quick feature validati
 
 📜 License
 This project is open-source and available under the MIT License.
-
+##
 📩 Contact
 👤 Rajat
 📧 Email: rajat.rajat0210@gmail.com
