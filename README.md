@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f474cbe2-96e0-46ec-9c75-7e89956d779b)![image](https://github.com/user-attachments/assets/e4659165-18d6-4b6d-ae0d-9b8c1575e2e7)# 🏠 Virtual Architect: AI-Powered Floorplan Analysis & Recommendations
+# 🏠 Virtual Architect: AI-Powered Floorplan Analysis & Recommendations
 
 ![Virtual Architect](https://github.com/rajatrajat0210/Virtual-ArchitectAI/blob/main/Prototype1a.png?raw=true)
 ![Virtual Architect](https://github.com/rajatrajat0210/Virtual-ArchitectAI/blob/main/Prototype1b.png?raw=true) 
