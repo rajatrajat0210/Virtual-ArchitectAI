@@ -1,9 +1,9 @@
-# 🏠 Virtual Architect: AI-Powered Floorplan Analysis & Recommendations
+![image](https://github.com/user-attachments/assets/f474cbe2-96e0-46ec-9c75-7e89956d779b)![image](https://github.com/user-attachments/assets/e4659165-18d6-4b6d-ae0d-9b8c1575e2e7)# 🏠 Virtual Architect: AI-Powered Floorplan Analysis & Recommendations
 
-![Virtual Architect](https://huggingface.co/spaces/rajat1343/VirtualArchAI)
-![Virtual Architect](https://huggingface.co/spaces/rajat1343/VirtualArchAI) 
-![Virtual Architect](https://huggingface.co/spaces/rajat1343/VirtualArchAI) 
-![Virtual Architect](https://huggingface.co/spaces/rajat1343/VirtualArchAI) 
+![Virtual Architect](https://github.com/rajatrajat0210/Virtual-ArchitectAI/blob/main/Prototype1a.png?raw=true)
+![Virtual Architect](https://github.com/rajatrajat0210/Virtual-ArchitectAI/blob/main/Prototype1b.png?raw=true) 
+![Virtual Architect](https://github.com/rajatrajat0210/Virtual-ArchitectAI/blob/main/Prototype1c.png?raw=true) 
+
 _A cutting-edge AI tool that analyzes floorplans, detects architectural elements, and provides intelligent recommendations using computer vision and LLMs._
 
 ---
@@ -111,6 +111,11 @@ Frontend will be available at http://localhost:3000
 
 ## 🎯 Why the FastAPI Version Was Not Deployed?  
 While the **Gradio version** was deployed on **Hugging Face** for quick feature validation, the **FastAPI + React version** requires **dedicated cloud hosting** for full functionality. Due to **higher infrastructure requirements and costs**, it is currently running **locally**, as shown in the **documentation and demo video**.  
+
+
+![Virtual Architect](https://github.com/rajatrajat0210/Virtual-ArchitectAI/blob/main/Prototype2.png?raw=true) 
+
+
 
 ---
 
