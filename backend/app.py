@@ -13,7 +13,7 @@ from PIL import Image
 import uvicorn
 
 # Initialize Groq Client
-groq_client = groq.Client(api_key="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")  # Replace with your actual API key
+groq_client = groq.Client(api_key="")  # Replace with your actual API key
 
 # Set Tesseract OCR Path
 pytesseract.pytesseract.tesseract_cmd = "/opt/homebrew/bin/tesseract"  # Update for your system
